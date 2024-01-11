@@ -7,6 +7,7 @@ System Hardware,
   <li><b>Storage: </b>SSD 250GB</li>
   <li><b>Wifi Card: </b>Broadcom BCM43xx</li>
   <li><b>Audio: </b>Conexant HD Audio CX20751/CX20752</li>
+  <li><b>Touchpad: </b>ELAN Synaptic</li>
 </ul>
 
 
